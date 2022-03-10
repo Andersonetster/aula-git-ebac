@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome:Anderson da Silva Santos
+-Profissão: Analista de qualidade
+-Cidade: São paulo
+-O que faz nas horas vaga: jogo video game
+-Feedback sobre o curso Qualidade de Software: muito bom o curso
+-Feedback sobre a plataforma de estudo da EBAC: plataforma intuitiva
+
+Obrigado!!!
+
+
